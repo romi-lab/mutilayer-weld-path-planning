@@ -6,6 +6,8 @@ In the algorithm, the welding bead geometry has been approximated into parallelo
 And the manner for welding path is planned in a side-to-center, left-to-right, bottom-to-top manner. 
 It allows such calculation on V-groove with various thickness, assembly clearance, and groove angle.
 
+<img src="https://github.com/romi-lab/mutilayer-weld-path-planning/blob/main/mutilayer.gif"  alt="">
+
 ## Procedures
 The code mainly follows 5 steps:
 1. Groove definition
@@ -15,7 +17,7 @@ The code mainly follows 5 steps:
 5. Weld path planning
 
 ## Results
-<img src="https://github.com/romi-lab/mutilayer-weld-path-planning/blob/main/mutilayer.png" width="800" alt="">
+<img src="https://github.com/romi-lab/mutilayer-weld-path-planning/blob/main/mutilayer.png" alt="">
 
 ## Note
 For detail, please check the document and code.
