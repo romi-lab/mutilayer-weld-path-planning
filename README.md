@@ -20,4 +20,4 @@ The code mainly follows 5 steps:
 <img src="https://github.com/romi-lab/mutilayer-weld-path-planning/blob/main/mutilayer.png" alt="">
 
 ## Note
-For detail, please check the document and code.
+For detail, please check the [document](https://github.com/romi-lab/mutilayer-weld-path-planning/blob/main/Mutilayer%20Weld%20Path%20Planning.pdf) and [code](https://github.com/romi-lab/mutilayer-weld-path-planning/blob/main/mutilayer%20weld%20path%20planning.m).
